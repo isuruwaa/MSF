@@ -1,7 +1,11 @@
+#CODED BY ISURUWAA
+#Do not coppy or modify codes, so it will result  the tool is not working .
 clear
 pkg install wget
 pkg install toilet
 clear
+echo -e "\e[92mV 2.0\e[0m";
+echo ""
 toilet -f mono12 -F gay "MSF"
 sleep 1
 echo -e "\e[95m--- CODED BY ISURUWAA ---  \e[0m";
