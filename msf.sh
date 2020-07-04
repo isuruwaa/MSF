@@ -1,5 +1,7 @@
+#!/bin/bash
 #CODED BY ISURUWAA
 #Do not coppy or modify codes, so it will result  the tool is not working .
+
 clear
 pkg install wget
 pkg install toilet
