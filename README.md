@@ -1,6 +1,6 @@
 # MSF
 # --- CODED BY ISURUWAA ---
-A Tool for Download & use Metasploit-Framework for termux .
+A Tool for Download & use Metasploit-Framework functions for termux .
 
 FEATURES :
 1.Aded different scripts for doenloading Metasploit in termux .
